@@ -40,7 +40,7 @@ export default function Navbar(){
                 </div>
                 <div onClick={() => setShowSidebar(true)} className={showSidebar ? "sidebar-btn active" : "sidebar-btn"}>
                     <div className="bar"></div>
-                    <div className="bar"></div>
+                    {/* <div className="bar"></div> */}
                     {/* <div className="bar"></div> */}
                 </div>
             </div>
