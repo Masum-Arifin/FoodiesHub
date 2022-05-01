@@ -44,7 +44,7 @@ export default function Navbar(){
                     {/* <div className="bar"></div> */}
                 </div>
             </div>
-            { showSidebar && <Sidebar close={closeSidebar} links={links} /> }
+            {/* { showSidebar && <Sidebar close={closeSidebar} links={links} /> } */}
         </>
     )
 }
