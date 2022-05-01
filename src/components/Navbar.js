@@ -9,11 +9,11 @@ export default function Navbar(){
     const [showSidebar, setShowSidebar] = useState(false)
     const location = useLocation()
     const links = [
-        {
-            name: "Home",
-            path: "/",
-            icon: faHome
-        },
+        // {
+        //     name: "Home",
+        //     path: "/",
+        //     icon: faHome
+        // },
         {
             name: "Recipes",
             path: "/recipes",
