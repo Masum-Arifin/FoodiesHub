@@ -14,11 +14,11 @@ export default function Navbar(){
             path: "/",
             icon: faHome
         },
-        {
-            name: "Recipes",
-            path: "/recipes",
-            icon: faList
-        },
+        // {
+        //     name: "Recipes",
+        //     path: "/recipes",
+        //     icon: faList
+        // },
         {
             name: "Settings",
             path: "/settings",
