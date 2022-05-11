@@ -7,10 +7,10 @@ import ChiefsSection from "../components/ChiefsSection";
 export default function Home(){
     return (
         <div>
-            <HeroSection />
+            {/* <HeroSection />
             <ImproveSkills />
             <QouteSection />
-            <ChiefsSection />
+            <ChiefsSection /> */}
         </div>
     )
 }
