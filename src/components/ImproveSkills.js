@@ -18,7 +18,7 @@ export default function ImproveSkills(){
                 { list.map((item, index) => (
                     <p className="skill-item" key={index}>{item}</p>
                 )) }
-                <button className="btn">Signup now</button>
+                <button className="btn">Signup Now</button>
             </div>
         </div>
     )
