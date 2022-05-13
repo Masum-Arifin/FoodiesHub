@@ -10,9 +10,9 @@ export default function ImproveSkills(){
 
     return (
         <div className="section improve-skills">
-            {/* <div className="col img">
+            <div className="col img">
                 <img src="/img/gallery/img_10.jpg" alt="" />
-            </div> */}
+            </div>
             <div className="col typography">
                 <h1 className="title">Improve Your Culinary Skills</h1>
                 { list.map((item, index) => (
