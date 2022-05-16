@@ -26,18 +26,18 @@ export default function ChiefsSection(){
             recipesCount: "08",
             cuisine: "American"
         },
-        {
-            name: "Blake Lively",
-            img: "/img/top-chiefs/img_5.jpg",
-            recipesCount: "09",
-            cuisine: "French"
-        },
         // {
-        //     name: "Ben Affleck",
-        //     img: "/img/top-chiefs/img_6.jpg",
-        //     recipesCount: "04",
-        //     cuisine: "Indian"
-        // }
+        //     name: "Blake Lively",
+        //     img: "/img/top-chiefs/img_5.jpg",
+        //     recipesCount: "09",
+        //     cuisine: "French"
+        // },
+        {
+            name: "Ben Affleck",
+            img: "/img/top-chiefs/img_6.jpg",
+            recipesCount: "04",
+            cuisine: "Indian"
+        }
     ]
     return (
         <div className="section chiefs">
