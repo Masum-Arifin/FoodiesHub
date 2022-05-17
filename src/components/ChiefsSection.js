@@ -8,12 +8,12 @@ export default function ChiefsSection(){
             recipesCount: "10",
             cuisine: "Mexican",
         },
-        {
-            name: "John Doe",
-            img: "/img/top-chiefs/img_2.jpg",
-            recipesCount: "05",
-            cuisine: "Japanese",
-        },
+        // {
+        //     name: "John Doe",
+        //     img: "/img/top-chiefs/img_2.jpg",
+        //     recipesCount: "05",
+        //     cuisine: "Japanese",
+        // },
         {
             name: "Erich Maria",
             img: "/img/top-chiefs/img_3.jpg",
