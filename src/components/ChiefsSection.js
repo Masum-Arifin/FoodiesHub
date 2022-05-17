@@ -20,12 +20,12 @@ export default function ChiefsSection(){
             recipesCount: "13",
             cuisine: "Italian",
         },
-        // {
-        //     name: "Chris Brown",
-        //     img: "/img/top-chiefs/img_4.jpg",
-        //     recipesCount: "08",
-        //     cuisine: "American"
-        // },
+        {
+            name: "Chris Brown",
+            img: "/img/top-chiefs/img_4.jpg",
+            recipesCount: "08",
+            cuisine: "American"
+        },
         {
             name: "Blake Lively",
             img: "/img/top-chiefs/img_5.jpg",
