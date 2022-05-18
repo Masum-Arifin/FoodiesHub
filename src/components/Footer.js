@@ -7,8 +7,8 @@ export default function Footer(){
                 <p>&copy; 2021 | All Rights Reserved</p>
             </div>
             <div className="footer-section">
-                {/* <p className="title">Contact Us</p> */}
-                <p>foodieshub@gmail.com</p>
+                <p className="title">Contact Us</p>
+                {/* <p>foodieshub@gmail.com</p> */}
                 <p>+342-5324-9454</p>
                 <p>2393 Street NYC</p>
             </div>
