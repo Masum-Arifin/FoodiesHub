@@ -11,7 +11,7 @@ export default function Footer(){
                 <p>foodieshub@gmail.com</p>
                 <p>+342-5324-9454</p>
                 <p>2393 Street NYC</p>
-                <p>Developed by </p>
+                <p>Developed by Masum</p>
             </div>
             <div className="footer-section">
                 <p className="title">Socials</p>
