@@ -14,7 +14,7 @@ export default function Footer(){
                 <p>Developed by Masum</p>
             </div>
             <div className="footer-section">
-                {/* <p className="title">Socials</p> */}
+                <p className="title">Socials</p>
                 <p>Facebook</p>
                 <p>Twitter</p>
                 <p>Instagram</p>
