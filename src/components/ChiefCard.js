@@ -11,8 +11,8 @@ export default function ChiefCard({chief}) {
                 <p className="chief-recipe-count">Recipes: <b>{chief.recipesCount}</b></p>
                 <p className="chief-cuisine">Cuisine: <b>{chief.cuisine}</b></p>
                 <p className="cheif-icons">
-                    {/* <FontAwesomeIcon icon={faFacebook} /> */}
-                    <FontAwesomeIcon icon={faTwitter} />
+                    <FontAwesomeIcon icon={faFacebook} />
+                    {/* <FontAwesomeIcon icon={faTwitter} /> */}
                     <FontAwesomeIcon icon={faInstagram} />
                 </p>
             </div>
