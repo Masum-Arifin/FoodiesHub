@@ -13,7 +13,7 @@ export default function ChiefCard({chief}) {
                 <p className="cheif-icons">
                     <FontAwesomeIcon icon={faFacebook} />
                     <FontAwesomeIcon icon={faTwitter} />
-                    {/* <FontAwesomeIcon icon={faInstagram} /> */}
+                    <FontAwesomeIcon icon={faInstagram} />
                 </p>
             </div>
         </div>
